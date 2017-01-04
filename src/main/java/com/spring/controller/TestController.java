@@ -1,4 +1,4 @@
-package co.spring.controller;
+package com.spring.controller;
 
 public class TestController {
 
